@@ -29,11 +29,7 @@ I am a full stack developer working through bootcamp and slated to graduate in S
 
 
 ## Contact
-![mailto:kristen.l.santee@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![https://www.linkedin.com/in/kristen-santee-aba1a631/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-<a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" data-canonical-src="" target="https://www.linkedin.com/in/kristen-santee-aba1a631/"></a>
-<a href="mailto:kristen.l.santee@gmail.com" alt="email" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
+[![Kristen's email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kristen.l.santee@gmail.com) [![Kristen's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristen-santee-aba1a631/)
 
 
 
