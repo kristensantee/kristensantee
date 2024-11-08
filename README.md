@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## Full Stack & Ready to Act
-I am a full stack developer working through bootcamp and slated to graduate in September 2022. I have worked professionally across a diverse array of fields and I bring a unique and thoughtful perspective to every role. From training as an archaeologist at an ancient Etruscan site to member-facing roles at a large credit union, I have understood the importance of sound data and solid analytics. I love to learn and share in knowledge and I love to be part of a winning team. 
+I have worked professionally across a diverse array of fields and I bring a unique and thoughtful perspective to every role. From training as an archaeologist at an ancient Etruscan site to member-facing roles at a large credit union, I have understood the importance of sound data and solid analytics. I love to learn and share in knowledge and I love to be part of a winning team. 
 
 📫 You can reach me directly at kristen.l.santee@gmail.com
 
